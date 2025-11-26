@@ -33,7 +33,7 @@ namespace TraCuuHoaDonDT
         {
             List<ItemData> items = new List<ItemData>
             {
-                new ItemData { DisplayText = "Tất cả", Value = "-1" },
+                new ItemData { DisplayText = "Tất cả", Value = "" },
                 new ItemData { DisplayText = "Hóa đơn mới", Value = "1" },
                 new ItemData { DisplayText = "Hóa đơn thay thế", Value = "2" },
                 new ItemData { DisplayText = "Hóa đơn điều chỉnh", Value = "3" },
@@ -82,13 +82,12 @@ namespace TraCuuHoaDonDT
                     mayTinhTien = this.mayTinhTien,
                     tdlapGe = selectedDateTruoc.ToString("dd/MM/yyyy"),
                     tdlapLe = selectedDateSau.ToString("dd/MM/yyyy"),
-                    ttxly = cbTrangThai.SelectedValue == "-1" ? "" : cbTrangThai.SelectedValue.ToString(),
+                    ttxly = cbTrangThai.SelectedValue.ToString(),
                     mst = txtMSTNguoiMua.Text,
                     shdon = txtSHDon.Text,
                     nmcccd = txtCCCD.Text,
                 };
 
-                MessageBox.Show(searchModel.ToString());
                 pTable.Hide();
                 var result = await client.GetInvoicesPagingAsync(searchModel, state);
                 state = result.state;

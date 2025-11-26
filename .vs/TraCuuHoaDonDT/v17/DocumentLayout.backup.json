@@ -74,9 +74,9 @@
               "Title": "FMuaVao.cs",
               "DocumentMoniker": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\FMuaVao.cs",
               "RelativeDocumentMoniker": "TraCuuHoaDonDT\\FMuaVao.cs",
-              "ToolTip": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\FMuaVao.cs",
-              "RelativeToolTip": "TraCuuHoaDonDT\\FMuaVao.cs",
-              "ViewState": "AgIAAKIAAAAAAAAAAADwv7wAAABYAAAAAAAAAA==",
+              "ToolTip": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\FMuaVao.cs*",
+              "RelativeToolTip": "TraCuuHoaDonDT\\FMuaVao.cs*",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAmwFQAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T17:29:52.083Z",
               "EditorCaption": ""
@@ -87,10 +87,11 @@
               "Title": "FMuaVao.cs [Design]",
               "DocumentMoniker": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\FMuaVao.cs",
               "RelativeDocumentMoniker": "TraCuuHoaDonDT\\FMuaVao.cs",
-              "ToolTip": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\FMuaVao.cs [Design]",
-              "RelativeToolTip": "TraCuuHoaDonDT\\FMuaVao.cs [Design]",
+              "ToolTip": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\FMuaVao.cs [Design]*",
+              "RelativeToolTip": "TraCuuHoaDonDT\\FMuaVao.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T17:28:30.228Z"
+              "WhenOpened": "2025-11-25T17:28:30.228Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -109,10 +110,11 @@
               "Title": "FBanRa.cs [Design]",
               "DocumentMoniker": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\FBanRa.cs",
               "RelativeDocumentMoniker": "TraCuuHoaDonDT\\FBanRa.cs",
-              "ToolTip": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\FBanRa.cs [Design]",
-              "RelativeToolTip": "TraCuuHoaDonDT\\FBanRa.cs [Design]",
+              "ToolTip": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\FBanRa.cs [Design]*",
+              "RelativeToolTip": "TraCuuHoaDonDT\\FBanRa.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T17:11:57.262Z"
+              "WhenOpened": "2025-11-25T17:11:57.262Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -228,11 +230,12 @@
               "Title": "FBanRa.cs",
               "DocumentMoniker": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\FBanRa.cs",
               "RelativeDocumentMoniker": "TraCuuHoaDonDT\\FBanRa.cs",
-              "ToolTip": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\FBanRa.cs",
-              "RelativeToolTip": "TraCuuHoaDonDT\\FBanRa.cs",
-              "ViewState": "AgIAAKQAAAAAAAAAAAAAALoAAABBAAAAAAAAAA==",
+              "ToolTip": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\FBanRa.cs*",
+              "RelativeToolTip": "TraCuuHoaDonDT\\FBanRa.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T14:56:26.512Z"
+              "WhenOpened": "2025-11-25T14:56:26.512Z",
+              "EditorCaption": ""
             }
           ]
         }

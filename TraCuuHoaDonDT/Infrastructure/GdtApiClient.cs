@@ -89,30 +89,6 @@ namespace TraCuuHoaDonDT.Infrastructure
             return model;
         }
 
-        //Lọc hóa đơn
-        public async Task<InvoiceResponseModel> ExportInvoicesAsync(
-                                                InvoiceSearchModel searchModel,
-                                                string sort = "tdlap:desc,khmshdon:asc,shdon:desc")
-        {
-            var query = HttpUtility.ParseQueryString(string.Empty, Encoding.UTF8);
-            query.Add("sort", sort);
-            query.Add("search", searchModel.ToString());
-
-
-            string endpoint = $"/{(searchModel.mayTinhTien ? "sco-query" : "query")}/invoices/{(searchModel.sold ? "sold" : "purchase")}?{query}";
-
-            _http.DefaultRequestHeaders.Authorization =
-                    new AuthenticationHeaderValue("Bearer", AppState.token);
-
-            var resp = await _http.GetAsync(endpoint);
-            resp.EnsureSuccessStatusCode();
-
-            string json = await resp.Content.ReadAsStringAsync();
-
-            var model = JsonConvert.DeserializeObject<InvoiceResponseModel>(json);
-
-            return model;
-        }
 
         //XuatFile
         public async Task<byte[]> ExportInvoiceXmlAsync(bool mayTinhTien, string nbmst, string khhdon, string shdon, string khmshdon)

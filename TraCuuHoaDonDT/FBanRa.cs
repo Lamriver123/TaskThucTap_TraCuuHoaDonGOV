@@ -32,7 +32,7 @@ namespace TraCuuHoaDonDT
         {
             List<ItemData> items = new List<ItemData>
             {
-                new ItemData { DisplayText = "Tất cả", Value = "-1" },
+                new ItemData { DisplayText = "Tất cả", Value = "" },
                 new ItemData { DisplayText = "Hóa đơn mới", Value = "1" },
                 new ItemData { DisplayText = "Hóa đơn thay thế", Value = "2" },
                 new ItemData { DisplayText = "Hóa đơn điều chỉnh", Value = "3" },
@@ -52,7 +52,7 @@ namespace TraCuuHoaDonDT
         {
             List<ItemData> items = new List<ItemData>
             {
-                new ItemData { DisplayText = "Tất cả", Value = "-1" },
+                new ItemData { DisplayText = "Tất cả", Value = "" },
                 new ItemData { DisplayText = "Cục thuế đã nhận", Value = "0" },
                 new ItemData { DisplayText = "Đang tiến hành kiểm tra điều kiện cấp mã", Value = "1" },
                 new ItemData { DisplayText = "CQT từ chối hóa đơn theo từng lần phát sinh", Value = "2" },
@@ -88,13 +88,12 @@ namespace TraCuuHoaDonDT
                     mayTinhTien = this.mayTinhTien,
                     tdlapGe = selectedDateTruoc.ToString("dd/MM/yyyy"),
                     tdlapLe = selectedDateSau.ToString("dd/MM/yyyy"),
-                    ttxly = cbTrangThai.SelectedValue == "-1" ? "" : cbTrangThai.SelectedValue.ToString(),
+                    ttxly = cbTrangThai.SelectedValue.ToString(),
                     mst = txtMSTNguoiMua.Text,
                     shdon = txtSHDon.Text,
                     nmcccd = txtCCCD.Text,
                 };
 
-                MessageBox.Show(searchModel.ToString());
                 pTable.Hide();
                 var result = await client.GetInvoicesPagingAsync(searchModel, state);
                 state = result.state;
@@ -186,9 +185,9 @@ namespace TraCuuHoaDonDT
                 // Hộp thoại chọn vị trí lưu file
                 using (SaveFileDialog sfd = new SaveFileDialog())
                 {
-                    sfd.Title = "Lưu file hóa đơn XML";
-                    sfd.Filter = "XML Files (*.xml)|*.xml";
-                    sfd.FileName = $"HD_{row.shdon}.xml";
+                    sfd.Title = "Chọn vị trí lưu";
+                    sfd.Filter = "ZIP Archive (*.zip)|*.zip";
+                    sfd.FileName = $"HD_{row.shdon}.zip";
 
                     if (sfd.ShowDialog() == DialogResult.OK)
                     {
