@@ -61,7 +61,7 @@ namespace TraCuuHoaDonDT.Infrastructure
         public async Task<InvoiceResponseModel> GetInvoicesPagingAsync(
                                                 InvoiceSearchModel searchModel,
                                                 string state = "",
-                                                int size = 50,
+                                                int size = 100,
                                                 string sort = "tdlap:desc,khmshdon:asc,shdon:desc")
         {
             var query = HttpUtility.ParseQueryString(string.Empty, Encoding.UTF8);

@@ -7,28 +7,48 @@
       "RelativeMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|solutionrelative:tracuuhoadondt\\infrastructure\\gdtapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|e:\\hk1nam4\\taskthuctap\\hoadondientu\\tracuuhoadondt\\tracuuhoadondt\\models\\authenticaterequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|solutionrelative:tracuuhoadondt\\models\\authenticaterequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|e:\\hk1nam4\\taskthuctap\\hoadondientu\\tracuuhoadondt\\tracuuhoadondt\\models\\authenticateresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|solutionrelative:tracuuhoadondt\\models\\authenticateresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|e:\\hk1nam4\\taskthuctap\\hoadondientu\\tracuuhoadondt\\tracuuhoadondt\\fmuavao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|solutionrelative:tracuuhoadondt\\fmuavao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\tracuuhoadondt\\fmuavao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|solutionrelative:tracuuhoadondt\\fmuavao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|e:\\hk1nam4\\taskthuctap\\hoadondientu\\tracuuhoadondt\\tracuuhoadondt\\fbanra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|solutionrelative:tracuuhoadondt\\fbanra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\tracuuhoadondt\\fbanra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|e:\\hk1nam4\\taskthuctap\\hoadondientu\\tracuuhoadondt\\tracuuhoadondt\\fbanra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|solutionrelative:tracuuhoadondt\\fbanra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\tracuuhoadondt\\fmuavao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|solutionrelative:tracuuhoadondt\\fmuavao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\tracuuhoadondt\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|solutionrelative:tracuuhoadondt\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|e:\\hk1nam4\\taskthuctap\\hoadondientu\\tracuuhoadondt\\tracuuhoadondt\\models\\invoicesearchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|solutionrelative:tracuuhoadondt\\models\\invoicesearchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|e:\\hk1nam4\\taskthuctap\\hoadondientu\\tracuuhoadondt\\tracuuhoadondt\\models\\captchamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|solutionrelative:tracuuhoadondt\\models\\captchamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|e:\\hk1nam4\\taskthuctap\\hoadondientu\\tracuuhoadondt\\tracuuhoadondt\\models\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|solutionrelative:tracuuhoadondt\\models\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|e:\\hk1nam4\\taskthuctap\\hoadondientu\\tracuuhoadondt\\tracuuhoadondt\\fbanra.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|solutionrelative:tracuuhoadondt\\fbanra.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|e:\\hk1nam4\\taskthuctap\\hoadondientu\\tracuuhoadondt\\tracuuhoadondt\\models\\authenticaterequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|solutionrelative:tracuuhoadondt\\models\\authenticaterequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|e:\\hk1nam4\\taskthuctap\\hoadondientu\\tracuuhoadondt\\tracuuhoadondt\\models\\authenticateresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|solutionrelative:tracuuhoadondt\\models\\authenticateresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|e:\\hk1nam4\\taskthuctap\\hoadondientu\\tracuuhoadondt\\tracuuhoadondt\\appstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,20 +63,8 @@
       "RelativeMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|solutionrelative:tracuuhoadondt\\models\\invoiceitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\tracuuhoadondt\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|solutionrelative:tracuuhoadondt\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|e:\\hk1nam4\\taskthuctap\\hoadondientu\\tracuuhoadondt\\tracuuhoadondt\\models\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|solutionrelative:tracuuhoadondt\\models\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|e:\\hk1nam4\\taskthuctap\\hoadondientu\\tracuuhoadondt\\tracuuhoadondt\\models\\invoicedetailfiltermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|solutionrelative:tracuuhoadondt\\models\\invoicedetailfiltermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|e:\\hk1nam4\\taskthuctap\\hoadondientu\\tracuuhoadondt\\tracuuhoadondt\\models\\captchamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0257FC52-B2C1-42ED-B834-FFB303C89B03}|TraCuuHoaDonDT\\TraCuuHoaDonDT.csproj|solutionrelative:tracuuhoadondt\\models\\captchamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,17 +74,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 227,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "FBanRa.cs [Design]",
+              "DocumentMoniker": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\FBanRa.cs",
+              "RelativeDocumentMoniker": "TraCuuHoaDonDT\\FBanRa.cs",
+              "ToolTip": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\FBanRa.cs [Design]",
+              "RelativeToolTip": "TraCuuHoaDonDT\\FBanRa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T07:54:17.842Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FBanRa.Designer.cs",
+              "DocumentMoniker": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\FBanRa.Designer.cs",
+              "RelativeDocumentMoniker": "TraCuuHoaDonDT\\FBanRa.Designer.cs",
+              "ToolTip": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\FBanRa.Designer.cs",
+              "RelativeToolTip": "TraCuuHoaDonDT\\FBanRa.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T07:25:39.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvoiceSearchModel.cs",
+              "DocumentMoniker": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\Models\\InvoiceSearchModel.cs",
+              "RelativeDocumentMoniker": "TraCuuHoaDonDT\\Models\\InvoiceSearchModel.cs",
+              "ToolTip": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\Models\\InvoiceSearchModel.cs",
+              "RelativeToolTip": "TraCuuHoaDonDT\\Models\\InvoiceSearchModel.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T07:23:55.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FMuaVao.cs",
               "DocumentMoniker": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\FMuaVao.cs",
               "RelativeDocumentMoniker": "TraCuuHoaDonDT\\FMuaVao.cs",
               "ToolTip": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\FMuaVao.cs",
               "RelativeToolTip": "TraCuuHoaDonDT\\FMuaVao.cs",
-              "ViewState": "AgIAAKIAAAAAAAAAAADwv7UAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAkwNMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T17:29:52.083Z",
               "EditorCaption": ""
@@ -95,30 +140,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "FMain.cs [Design]",
               "DocumentMoniker": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\FMain.cs",
               "RelativeDocumentMoniker": "TraCuuHoaDonDT\\FMain.cs",
               "ToolTip": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\FMain.cs [Design]",
               "RelativeToolTip": "TraCuuHoaDonDT\\FMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T17:28:16.022Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FBanRa.cs [Design]",
-              "DocumentMoniker": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\FBanRa.cs",
-              "RelativeDocumentMoniker": "TraCuuHoaDonDT\\FBanRa.cs",
-              "ToolTip": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\FBanRa.cs [Design]",
-              "RelativeToolTip": "TraCuuHoaDonDT\\FBanRa.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T17:11:57.262Z",
+              "WhenOpened": "2025-11-25T17:28:16.022Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 7,
               "Title": "CaptchaModel.cs",
               "DocumentMoniker": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\Models\\CaptchaModel.cs",
               "RelativeDocumentMoniker": "TraCuuHoaDonDT\\Models\\CaptchaModel.cs",
@@ -130,20 +164,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "AuthenticateRequestModel.cs",
               "DocumentMoniker": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\Models\\AuthenticateRequestModel.cs",
               "RelativeDocumentMoniker": "TraCuuHoaDonDT\\Models\\AuthenticateRequestModel.cs",
               "ToolTip": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\Models\\AuthenticateRequestModel.cs",
               "RelativeToolTip": "TraCuuHoaDonDT\\Models\\AuthenticateRequestModel.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T17:04:25.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T17:04:25.105Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "ItemData.cs",
               "DocumentMoniker": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\Models\\ItemData.cs",
               "RelativeDocumentMoniker": "TraCuuHoaDonDT\\Models\\ItemData.cs",
@@ -155,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "AuthenticateResponseModel.cs",
               "DocumentMoniker": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\Models\\AuthenticateResponseModel.cs",
               "RelativeDocumentMoniker": "TraCuuHoaDonDT\\Models\\AuthenticateResponseModel.cs",
@@ -163,12 +196,11 @@
               "RelativeToolTip": "TraCuuHoaDonDT\\Models\\AuthenticateResponseModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T15:54:14.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T15:54:14.212Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "AppState.cs",
               "DocumentMoniker": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\AppState.cs",
               "RelativeDocumentMoniker": "TraCuuHoaDonDT\\AppState.cs",
@@ -180,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "InvoiceResponseModel.cs",
               "DocumentMoniker": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\Models\\InvoiceResponseModel.cs",
               "RelativeDocumentMoniker": "TraCuuHoaDonDT\\Models\\InvoiceResponseModel.cs",
@@ -192,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "InvoiceItemModel.cs",
               "DocumentMoniker": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\Models\\InvoiceItemModel.cs",
               "RelativeDocumentMoniker": "TraCuuHoaDonDT\\Models\\InvoiceItemModel.cs",
@@ -204,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "InvoiceDetailFilterModel.cs",
               "DocumentMoniker": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\Models\\InvoiceDetailFilterModel.cs",
               "RelativeDocumentMoniker": "TraCuuHoaDonDT\\Models\\InvoiceDetailFilterModel.cs",
@@ -222,20 +254,20 @@
               "RelativeDocumentMoniker": "TraCuuHoaDonDT\\Infrastructure\\GdtApiClient.cs",
               "ToolTip": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\Infrastructure\\GdtApiClient.cs",
               "RelativeToolTip": "TraCuuHoaDonDT\\Infrastructure\\GdtApiClient.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAqwFoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAUwEwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T15:07:48.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "FBanRa.cs",
               "DocumentMoniker": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\FBanRa.cs",
               "RelativeDocumentMoniker": "TraCuuHoaDonDT\\FBanRa.cs",
               "ToolTip": "E:\\HK1Nam4\\TaskThucTap\\HoaDonDienTu\\TraCuuHoaDonDT\\TraCuuHoaDonDT\\FBanRa.cs",
               "RelativeToolTip": "TraCuuHoaDonDT\\FBanRa.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAswOkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T14:56:26.512Z",
               "EditorCaption": ""

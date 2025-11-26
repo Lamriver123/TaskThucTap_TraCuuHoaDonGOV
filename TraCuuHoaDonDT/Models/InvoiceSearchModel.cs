@@ -17,13 +17,18 @@ public partial class InvoiceSearchModel
     public string tdlapLe { get; set; }
 
     /// <summary>
-    /// Trạng thái xử lý
+    /// Kết quả
     /// Value: 
     /// <value>5 or none: đã cấp mã hoá đơn => Mặc định. Hóa đơn đầu ra sẽ có giá trị này để get all</value>
     /// 6: Tổng cục thuế đã nhận=> không mã => Hóa đơn đầu vào
     /// 8: Tổng cục thuế đã nhận từ máy tính tiền => Hóa đơn đầu vào
     /// </summary>
     public string ttxly { get; set; }
+
+    /// <summary>
+    /// Trạng thái xử lý
+    /// </summary>
+    public string tthai { get; set; }
 
     /// <summary>
     /// Mã số thuế
@@ -63,6 +68,9 @@ public partial class InvoiceSearchModel
 
         if (!string.IsNullOrEmpty(ttxly))
             search += $";ttxly=={ttxly}";
+
+        if (!string.IsNullOrEmpty(tthai))
+            search += $";tthai=={tthai}";
 
         if (!string.IsNullOrEmpty(shdon))
             search += $";shdon=={shdon}";

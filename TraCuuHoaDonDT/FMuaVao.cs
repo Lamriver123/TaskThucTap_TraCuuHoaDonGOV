@@ -82,12 +82,13 @@ namespace TraCuuHoaDonDT
                     mayTinhTien = this.mayTinhTien,
                     tdlapGe = selectedDateTruoc.ToString("dd/MM/yyyy"),
                     tdlapLe = selectedDateSau.ToString("dd/MM/yyyy"),
-                    ttxly = cbTrangThai.SelectedValue.ToString(),
+                    ttxly = cbKetQua.SelectedValue.ToString(),
+                    tthai = cbTrangThai.SelectedValue.ToString(),
                     mst = txtMSTNguoiMua.Text,
                     shdon = txtSHDon.Text,
                     nmcccd = txtCCCD.Text,
                 };
-
+                MessageBox.Show(searchModel.ToString());
                 pTable.Hide();
                 var result = await client.GetInvoicesPagingAsync(searchModel, state);
                 state = result.state;
@@ -174,7 +175,7 @@ namespace TraCuuHoaDonDT
                     row.shdon.ToString(),
                     row.khmshdon.ToString()
                 );
-                if( bytes != null)
+                if (bytes != null)
                 {
                     using (SaveFileDialog sfd = new SaveFileDialog())
                     {
@@ -196,6 +197,42 @@ namespace TraCuuHoaDonDT
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message, "Lỗi Xuất File");
+            }
+        }
+
+        private void dtpNgayTruoc_ValueChanged(object sender, EventArgs e)
+        {
+            DateTime start = dtpNgayTruoc.Value.Date;
+            DateTime end = dtpNgaySau.Value.Date;
+
+            if (end < start)
+            {
+                dtpNgaySau.Value = start;
+                return; 
+            }
+
+            TimeSpan span = end - start;
+            if (span.TotalDays > 30)
+            {
+                dtpNgaySau.Value = start.AddDays(30);
+            }
+        }
+
+        private void dtpNgaySau_ValueChanged(object sender, EventArgs e)
+        {
+            DateTime start = dtpNgayTruoc.Value.Date;
+            DateTime end = dtpNgaySau.Value.Date;
+
+            if (end < start)
+            {
+                dtpNgayTruoc.Value = end;
+                return;
+            }
+
+            TimeSpan span = end - start;
+            if (span.TotalDays > 30)
+            {
+                dtpNgayTruoc.Value = end.AddDays(-30);
             }
         }
     }
