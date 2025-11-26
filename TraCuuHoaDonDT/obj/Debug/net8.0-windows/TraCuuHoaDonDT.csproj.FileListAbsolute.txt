@@ -35,3 +35,4 @@ E:\HK1Nam4\TaskThucTap\HoaDonDienTu\TraCuuHoaDonDT\TraCuuHoaDonDT\bin\Debug\net8
 E:\HK1Nam4\TaskThucTap\HoaDonDienTu\TraCuuHoaDonDT\TraCuuHoaDonDT\bin\Debug\net8.0-windows\Svg.Model.dll
 E:\HK1Nam4\TaskThucTap\HoaDonDienTu\TraCuuHoaDonDT\TraCuuHoaDonDT\bin\Debug\net8.0-windows\Svg.Skia.dll
 E:\HK1Nam4\TaskThucTap\HoaDonDienTu\TraCuuHoaDonDT\TraCuuHoaDonDT\bin\Debug\net8.0-windows\Stripe.net.dll
+E:\HK1Nam4\TaskThucTap\HoaDonDienTu\TraCuuHoaDonDT\TraCuuHoaDonDT\obj\Debug\net8.0-windows\TraCuuHoaDonDT.sourcelink.json

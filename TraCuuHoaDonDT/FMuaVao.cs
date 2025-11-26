@@ -2,8 +2,10 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Diagnostics.Eventing.Reader;
 using System.Drawing;
+using System.IO.Compression;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -153,7 +155,6 @@ namespace TraCuuHoaDonDT
 
         private async void btnXuatFile_Click(object sender, EventArgs e)
         {
-            
             var client = new GdtApiClient();
             try
             {
@@ -167,7 +168,6 @@ namespace TraCuuHoaDonDT
                     return;
                 }
 
-                // Gọi API lấy file XML dạng byte[]
                 var bytes = await client.ExportInvoiceXmlAsync(
                     mayTinhTien,
                     row.nbmst,
@@ -175,19 +175,23 @@ namespace TraCuuHoaDonDT
                     row.shdon.ToString(),
                     row.khmshdon.ToString()
                 );
-
-                // Hộp thoại chọn vị trí lưu file
-                using (SaveFileDialog sfd = new SaveFileDialog())
+                if( bytes != null)
                 {
-                    sfd.Title = "Lưu file hóa đơn XML";
-                    sfd.Filter = "XML Files (*.xml)|*.xml";
-                    sfd.FileName = $"HD_{row.shdon}.xml";
-
-                    if (sfd.ShowDialog() == DialogResult.OK)
+                    using (SaveFileDialog sfd = new SaveFileDialog())
                     {
-                        System.IO.File.WriteAllBytes(sfd.FileName, bytes);
-                        MessageBox.Show($"Đã lưu file thành công:\n{sfd.FileName}");
+                        sfd.Title = "Chọn vị trí lưu";
+                        sfd.Filter = "ZIP Archive (*.zip)|*.zip";
+                        sfd.FileName = $"HD_{row.shdon}.zip";
+                        if (sfd.ShowDialog() == DialogResult.OK)
+                        {
+                            System.IO.File.WriteAllBytes(sfd.FileName, bytes);
+                            MessageBox.Show($"Đã lưu file thành công:\n{sfd.FileName}");
+                        }
                     }
+                }
+                else
+                {
+                    MessageBox.Show("Yêu cầu thất bại");
                 }
             }
             catch (Exception ex)
